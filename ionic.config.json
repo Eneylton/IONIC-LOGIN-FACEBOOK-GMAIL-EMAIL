@@ -1,0 +1,8 @@
+{
+  "name": "app-login-redes-sociais-email",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
